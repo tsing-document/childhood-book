@@ -3,8 +3,8 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  // base: "/childhood-book/",
-  base: "/",
+  base: "/childhood-book/",
+  // base: "/",
 
   lang: "zh-CN",
   title: "记忆中童年的味道",
