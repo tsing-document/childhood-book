@@ -1,0 +1,1 @@
+scp -r ./src/.vuepress/dist root@39.100.85.61:/home/www

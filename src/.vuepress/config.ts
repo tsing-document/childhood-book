@@ -3,11 +3,12 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/childhood-book/",
+  // base: "/childhood-book/",
+  base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "记忆中童年的味道",
+  description: "希望在某一时刻，能被老师叫醒我告诉我上课认真听讲",
 
   theme,
 
