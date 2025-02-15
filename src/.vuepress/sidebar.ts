@@ -71,4 +71,15 @@ export default sidebar({
       ],
     },
   ],
+  "/北师大版/": [
+    {
+      text: "📁 北师大语文",
+      prefix: "/北师大版/语文",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "一年级上册",
+      ],
+    },
+  ],
 });
