@@ -79,6 +79,7 @@ export default sidebar({
       expanded: false,
       children: [
         "一年级上册",
+        "一年级下册",
       ],
     },
   ],
