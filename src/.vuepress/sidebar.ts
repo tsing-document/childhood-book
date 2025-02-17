@@ -80,6 +80,7 @@ export default sidebar({
       children: [
         "一年级上册",
         "一年级下册",
+        "二年级上册",
       ],
     },
   ],
