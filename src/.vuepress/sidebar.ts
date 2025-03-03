@@ -45,7 +45,7 @@ export default sidebar({
   ],
   "/人教版/": [
     {
-      text: "📁 人教版语文",
+      text: "📁 人教版语文2001版",
       prefix: "/人教版/语文",
       collapsible: true,
       expanded: false,
@@ -68,6 +68,16 @@ export default sidebar({
         "八年级下册",
         "九年级上册",
         "九年级下册",
+      ],
+    },
+    {
+      text: "📁 人教版语文老版",
+      prefix: "/人教版/老版",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "第一册",
+        "第二册",
       ],
     },
   ],
