@@ -107,4 +107,15 @@ export default sidebar({
       ],
     },
   ],
+  "/阅读/": [
+    {
+      text: "📁 文学类",
+      prefix: "/阅读/文学类",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "太白金星有点烦",
+      ],
+    },
+  ],
 });
