@@ -81,6 +81,9 @@ export default sidebar({
         "第三册",
         "第四册",
         "第五册",
+        "第六册",
+        "第七册",
+
       ],
     },
   ],
@@ -116,6 +119,7 @@ export default sidebar({
       expanded: false,
       children: [
         "太白金星有点烦",
+        "追风筝的人"
       ],
     },
   ],
