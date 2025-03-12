@@ -123,5 +123,14 @@ export default sidebar({
         "追风筝的人"
       ],
     },
+    {
+      text: "📁 情感类",
+      prefix: "/阅读/情感类",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "追风筝的人"
+      ],
+    },
   ],
 });
