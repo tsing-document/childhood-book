@@ -121,7 +121,6 @@ export default sidebar({
       expanded: false,
       children: [
         "太白金星有点烦",
-        "追风筝的人"
       ],
     },
     {
@@ -131,6 +130,15 @@ export default sidebar({
       expanded: false,
       children: [
         "追风筝的人"
+      ],
+    },
+    {
+      text: "📁 长篇小说",
+      prefix: "/阅读/长篇小说",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "1Q84"
       ],
     },
   ],
