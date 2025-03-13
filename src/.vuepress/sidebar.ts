@@ -72,7 +72,7 @@ export default sidebar({
     },
     {
       text: "📁 人教版语文老版",
-      prefix: "/人教版/老版",
+      prefix: "/人教版/老版语文",
       collapsible: true,
       expanded: false,
       children: [
@@ -86,6 +86,7 @@ export default sidebar({
         "第八册",
         "第九册",
         "第十册",
+        "第十一册",
       ],
     },
   ],
