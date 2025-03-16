@@ -97,6 +97,7 @@ export default sidebar({
       expanded: false,
       children: [
         "道德与法制一年级上册",
+        "道德与法制一年级下册",
       ],
     },
   ],
