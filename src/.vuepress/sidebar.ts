@@ -133,30 +133,14 @@ export default sidebar({
   ],
   "/阅读/": [
     {
-      text: "📁 文学类",
-      prefix: "/阅读/文学类",
+      text: "📁 文学",
+      prefix: "/阅读",
       collapsible: true,
       expanded: false,
       children: [
+        "001-我与地坛",
+        "002-追风筝的人",
         "太白金星有点烦",
-      ],
-    },
-    {
-      text: "📁 情感类",
-      prefix: "/阅读/情感类",
-      collapsible: true,
-      expanded: false,
-      children: [
-        "追风筝的人"
-      ],
-    },
-    {
-      text: "📁 长篇小说",
-      prefix: "/阅读/长篇小说",
-      collapsible: true,
-      expanded: false,
-      children: [
-        "1Q84"
       ],
     },
   ],
