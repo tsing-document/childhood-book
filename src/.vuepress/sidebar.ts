@@ -91,6 +91,15 @@ export default sidebar({
       ],
     },
     {
+      text: "📁 人教版语文高中必修",
+      prefix: "/人教版/高中语文必修",
+      collapsible: true,
+      expanded: false,
+      children: [
+        "必修一",
+      ],
+    },
+    {
       text: "📁 道德与法治",
       prefix: "/人教版/道德与法制",
       collapsible: true,
@@ -141,6 +150,7 @@ export default sidebar({
       children: [
         "001-我与地坛",
         "002-追风筝的人",
+        "003-呐喊-ING",
         "太白金星有点烦",
       ],
     },
