@@ -97,6 +97,7 @@ export default sidebar({
       expanded: false,
       children: [
         "必修一",
+        "必修二",
       ],
     },
     {
