@@ -98,6 +98,7 @@ export default sidebar({
       children: [
         "必修一",
         "必修二",
+        "必修三",
       ],
     },
     {
