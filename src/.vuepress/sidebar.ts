@@ -49,6 +49,7 @@ export default sidebar({
       expanded: false,
       children: [
         "苏教译林版小学英语三年级上册电子课本",
+        "苏教译林版小学英语三年级下册电子课本",
       ],
     },
   ],
